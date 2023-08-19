@@ -1,1 +1,5 @@
-def strcounter(s):
+palindrom = input('Введите строку: ')
+if palindrom == palindrom[::-1]:
+  print('Ответ: True')
+else:
+  print('Ответ: False')
