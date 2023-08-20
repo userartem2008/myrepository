@@ -3,3 +3,7 @@ if palindrom == palindrom[::-1]:
   print('Ответ: True')
 else:
   print('Ответ: False')
+
+
+
+!!1

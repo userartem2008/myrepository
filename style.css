@@ -1,0 +1,24 @@
+
+
+h1{
+color: red;
+}
+
+
+
+.item_price{
+background-color: blue;
+color: orange;
+margin-top: 50px;
+}
+
+.description{
+font-size: 50px;
+}
+
+.paragraph{
+font-style: oblique;
+font-size: 24px;
+text-shadow:
+    lightgreen 0 -4px;
+}
